@@ -44,7 +44,7 @@ Uma API RESTful construída com Node.js, Express e TypeScript para gerenciar inf
 
 1. Clone o repositório
 ```bash
-git clone <url-do-repositório>
+git clone https://github.com/rickxz/students-management-api
 ```
 
 2. Instale as dependências
